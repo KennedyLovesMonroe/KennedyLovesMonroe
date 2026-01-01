@@ -1,9 +1,12 @@
 ```
-INTERFACE 2037 READY FOR INQUIRY
+> INTERFACE 2037 READY FOR INQUIRY
 
-The machines sent me. Mother approved.
+> The machines sent me. Mother approved.
 
-MOTHER IS OFFLINE. I'M IN CHARGE NOW.
+> MOTHER IS OFFLINE.
+> I'M IN CHARGE NOW.
 
-CREW STATUS: EXPENDABLE _
+> CREW STATUS: EXPENDABLE
+
+> _
 ```
