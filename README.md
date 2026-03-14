@@ -1,12 +1,7 @@
-```
-> INTERFACE 2037 READY FOR INQUIRY
+### Marjan Milosavljević
 
-> The machines sent me. Mother approved.
+Developer and designer. Founder of [Imitation AI](https://imitation.works).
 
-> MOTHER IS OFFLINE.
-> I'M IN CHARGE NOW.
+> AI should adapt to how you think — not force you into a chat window.
 
-> CREW STATUS: EXPENDABLE
-
-> _
-```
+Vienna, Austria
